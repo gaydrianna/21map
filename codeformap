@@ -1,0 +1,66 @@
+```
+-baseurl: "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" 
+-title: "emily's twenty first adventure"
+-author: "Adrianna Martinez"
+```
+
+#The Beginning
+```
+- center: [40.8081, -73.1061]
+- zoom: 9
+L.marker([40.8081, -73.1061]).actions.addRemove(S.map)
+```
+
+We all have to start somewhere, and this is exactly where our journey begain for this momentous day. 
+
+This day will take us all over New York City, exploring new places and spaces at the beginning of a new year of your life, Emily. You are beautiful, you are brilliant, and you should enjoy this adventure. Here we go!
+
+
+
+#The Meeting Point
+```
+L.marker([40.7506, -73.9935]).actions.addRemove(S.map)
+- center: [40.7380,-73.9990]
+- zoom: 14
+```
+
+
+It may not be anywhere too exciting and we have been there many times. But it is a start. A true start. To the adventure!By adding new [Markdown] (http://daringfireball.net/projects/markdown/]) h1 elements (#) you add new states to your story.
+
+#The First Stop
+```
+L.marker([40.733797, -74.0021]).actions.addRemove(S.map)
+- center: [40.733797, -74.0021]
+- zoom: 90
+```
+
+The First stop is a pretty obvious one. 
+
+
+#Adding images to your story
+```
+- center: [40.7365, -73.9982]
+- zoom: 13
+```
+
+By default, images are also supported. 
+
+![New York](http://www.boston-discovery-guide.com/image-files/new-york-1.jpg)
+
+#Exporting your story
+```
+- center: [40.4469, -28.5645]
+- zoom: 3
+```
+
+You have different options for exporting your odyssey.js visualization. You can either embed this using an iframe, publishing with a click on bl.ocks or just share the URL of this visualization.
+
+If you want to customize it further, you can download the generated source code by clicking on the button below.
+
+#Advanced users
+
+Check out our [documentation](/odyssey.js/documentation/) to learn how to use odyssey to create more custom things. It's crazy the amount of cool things that can be done with the library.
+
+Also if you are a developer, take a look at our contributing guideline so you can push code to the actual library.
+
+Cheers!
