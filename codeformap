@@ -5,6 +5,7 @@
 ```
 
 #The Beginning
+Ronkonkoma Train Station
 ```
 - center: [40.8081, -73.1061]
 - zoom: 9
@@ -18,6 +19,7 @@ An alcoholic adventure into New York City With a Specifically Gay Center in cele
 
 
 #The Meeting Point
+Penn Station
 ```
 L.marker([40.7506, -73.9935]).actions.addRemove(S.map)
 - center: [40.7380,-73.9990]
@@ -27,6 +29,7 @@ L.marker([40.7506, -73.9935]).actions.addRemove(S.map)
 It may not be anywhere too exciting and we have been there many times. But it is a start. A true start. To the adventure!
 
 #We're here, We're Queer, and We're Hungry
+Two Boots West Village
 ```
 L.marker([40.7367, -74.0015]).actions.addRemove(S.map)
 - center: [40.7367, -74.0015]
@@ -36,6 +39,7 @@ We have had a long trip, so before we begin, food is in order! Find your way to 
 
 
 #The First Stop
+Stonewall Inn
 ```
 L.marker([40.733797, -74.0021]).actions.addRemove(S.map)
 - center: [40.733797, -74.0021]
@@ -49,6 +53,7 @@ The First stop is a pretty obvious one. Let’s go in and see if it is overrated
 
 
 #No. 2
+Hennrietta Hudson
 ```
 - center: [40.7310, -74.0065]
 - zoom: 20
@@ -66,8 +71,10 @@ A space jam packed with lezzies. Let’s dive right in.
 L.marker([40.7365, -73.9982]).actions.addRemove(S.map)
 ```
 Here we are hungry again and a lil tipsy, let's get some french fries and keep it moving!
+#Cubby Hole?
 
 #Let’s hit brooklyn!
+
 ```
 - center: [40.6713, -73.9842]
 - zoom: 15
@@ -78,6 +85,7 @@ Look forward to this lil bar with an extra perk.
 
 
 #We are heading towards the Deep End
+Deep End
 ```
 - center: [40.6944, -73.9024]
 - zoom: 15
